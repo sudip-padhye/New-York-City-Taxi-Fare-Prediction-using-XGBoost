@@ -1,3 +1,5 @@
+### NOTE - Before proceeding to execute the project, it is requested to download complete data files from the URL https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data
+
 # Data Description-
 ## File descriptions
 1. train.csv - Input features and target fare_amount values for the training set (about 55M rows).
